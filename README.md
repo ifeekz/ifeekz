@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeekz&label=Profile%20views&color=0e75b6&style=flat" alt="ifeekz" /> </p>
 
-- 🔭 I’m currently working on [Kudade](kudade.com)
+- 🔭 I’m currently working on [Kudade](https://kudade.vercel.app)
 
 - 🌱 I’m currently learning **DevOps**
 
