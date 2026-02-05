@@ -64,10 +64,16 @@ I value **clarity over cleverness** and approach software with a strong sense of
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeekz&layout=compact" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeekz&show_icons=true&locale=en&layout=compact" alt="ifeekz" /></p>
 
-<p align="left">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifeekz&show_icons=true&locale=en" alt="ifeekz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeekz&" alt="ifeekz" /></p>
+
+<!-- <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeekz&layout=compact" />
+</p> -->
+
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ifeekz&show_icons=true" />
-</p>
+</p> -->
