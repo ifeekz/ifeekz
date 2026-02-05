@@ -26,6 +26,7 @@ I build scalable, production-grade SaaS systems with clean architecture, strong 
 ### 🧰 Core Tech Stack
 
 **Backend**
+
 - PHP (Laravel 5.6–12)
 - Node.js (Express, NestJS)
 - Python (Django, FastAPI, Flask)
@@ -33,16 +34,19 @@ I build scalable, production-grade SaaS systems with clean architecture, strong 
 - MySQL, PostgreSQL, MongoDB, Redis
 
 **Frontend**
+
 - Vue.js (Vue 2 & 3), Inertia.js
 - React
 - Vite, Tailwind CSS
 
 **AI / Automation**
+
 - NLP-driven document processing
 - OCR + LLM-based text pipelines
 - AI-assisted classification and extraction workflows
 
 **DevOps & Tooling**
+
 - Linux / Unix CLI, Bash scripting
 - Docker, CI/CD (GitHub Actions, Jenkins)
 - AWS, GCP
@@ -64,16 +68,10 @@ I value **clarity over cleverness** and approach software with a strong sense of
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeekz&show_icons=true&locale=en&layout=compact" alt="ifeekz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifeekz&show_icons=true&locale=en" alt="ifeekz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeekz&" alt="ifeekz" /></p>
-
-<!-- <p align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeekz&layout=compact" />
-</p> -->
+</p>
 
-<!-- <p align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ifeekz&show_icons=true" />
-</p> -->
+</p>
